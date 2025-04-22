@@ -3,7 +3,7 @@
 👀 I’m interested in Web Development <br>
 🔭 I’m currently working on PHP Wordpress<br>
 🤝 I’m looking for React.js Jobs<br> 
-🌱 I’m currently learning React.js & Next.js<br>
+🌱 I’m currently learning Mern Stack<br>
 📫 How to reach me https://www.linkedin.com/feed/
 
 
